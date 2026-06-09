@@ -1,3 +1,3 @@
 module go.seankhliao.com/testrepo1512
 
-go 1.26.4
+go 1.25.0
